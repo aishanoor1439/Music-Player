@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87A04C6-F3A5-4D50-BFDF-91FE4E013A34}|MusicPlayer.csproj|c:\\users\\aisha_ppxjc2l\\source\\repos\\musicplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87A04C6-F3A5-4D50-BFDF-91FE4E013A34}|MusicPlayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87A04C6-F3A5-4D50-BFDF-91FE4E013A34}|MusicPlayer.csproj|c:\\users\\aisha_ppxjc2l\\source\\repos\\musicplayer\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87A04C6-F3A5-4D50-BFDF-91FE4E013A34}|MusicPlayer.csproj|solutionrelative:musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87A04C6-F3A5-4D50-BFDF-91FE4E013A34}|MusicPlayer.csproj|c:\\users\\aisha_ppxjc2l\\source\\repos\\musicplayer\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87A04C6-F3A5-4D50-BFDF-91FE4E013A34}|MusicPlayer.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\MusicPlayer.cs",
+              "RelativeToolTip": "MusicPlayer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:31:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:30:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aisha_ppxjc2l\\source\\repos\\MusicPlayer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:30:03.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

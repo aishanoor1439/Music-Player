@@ -1,0 +1,8 @@
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\aisha_ppxjc2l\source\repos\MusicPlayer\obj\Debug\MusicPlayer.exe.config
